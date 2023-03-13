@@ -25,15 +25,15 @@ To start the application, run the following command in the project directory:
 This will start the development server and launch the application in your default browser at ```http://localhost:3000/```.
 
 ## Features
-Add new tasks to your todo list
-Mark tasks as complete
-Remove tasks from your todo list
+- Add new tasks to your todo list
+- Mark tasks as complete
+- Remove tasks from your todo list
 
 
 ## Technologies Used
-ReactJS
-CSS
-HTML
+- ReactJS
+- CSS
+- HTML
 
 
 ## Contributing
