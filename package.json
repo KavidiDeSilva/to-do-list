@@ -1,7 +1,7 @@
 {
   "name": "codespaces-react",
   "version": "0.1.0",
-  "homepage": "https://KavidiDeSilva.github.io/to-do-list-app",
+  "homepage": "https://KavidiDeSilva.github.io/todo-list-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
